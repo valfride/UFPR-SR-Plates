@@ -50,7 +50,10 @@ If you use this dataset, please cite our paper:
 Additionally, consider showing your support by **starring** :star: this repository.
 
 ## Related Publications
-
+Explore our other works on license plate recognition and super-resolution:
+- [Combining Attention Module and Pixel Shuffle for License Plate Super-resolution (SIBGRAPI 2022)](https://ieeexplore.ieee.org/document/9991753)
+- [Super-Resolution of License Plate Images Using Attention Modules and Sub-Pixel Convolution Layers (Computers & Graphics 2023)](https://www.sciencedirect.com/science/article/pii/S0097849323000602?via%3Dihub)
+- [Full list of publications](https://www.inf.ufpr.br/vwnascimento/)
 
 ## Contact
 For questions or feedback, contact:
