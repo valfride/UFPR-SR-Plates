@@ -12,7 +12,7 @@ This dataset contains **100,000 license plate (LP) images** organized into **10,
 - **Annotations**: JSON files with LP corner coordinates, layout type, and ground-truth text for all images.
 - **Privacy-compliant**: Brazilian LPs are not linked to personal data, adhering to local regulations.
 
-![Dataset Examples](./media/image.png)  
+![Dataset Examples](./media/carssrplates1.png)  
 *Examples of tracks from UFPR-SR-Plates. Each row shows five LR (left) and five HR (right) images of the same LP under varying conditions.*
 
 ## Dataset Structure
