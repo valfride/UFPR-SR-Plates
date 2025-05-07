@@ -21,4 +21,4 @@ If you use our dataset in your research, please cite:
 }
 ```
 
-Additionally, consider showing your support by starring (:star:) this repository.
+Additionally, consider showing your support by starring ( :star: ) this repository.
