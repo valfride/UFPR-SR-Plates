@@ -35,7 +35,7 @@ To be able to download the dataset, please read carefully this license agreement
 In general, you will receive a download link within 1-5 business days. If you do not receive it within this timeframe, please check your spam/junk folder. Failure to follow the instructions above may result in no response.
 
 ## Citation
-If you use the RodoSol-ALPR dataset in your research, please cite our paper:
+If you use the UFPR-SR-Plates dataset in your research, please cite our paper:
 
 * V. Nascimento, G. E. Lima, R. O. Ribeiro, W. R. Schwartz, R. Laroca, D. Menotti, “Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark,” Journal of the Brazilian Computer Society, pp. 1-14, 2025.
 
