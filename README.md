@@ -25,9 +25,9 @@ This dataset contains **100,000 license plate (LP) images** organized into **10,
   *No LP overlaps between splits.*
 
 ## How to Access
-The UFPR-SR-Plates dataset is **publicly available** under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+The UFPR-SR-Plates dataset is released for academic research only and is free to researchers from educational or research institutes for non-commercial purposes.
 
-📥 **Download Link**: [https://valfride.github.io/nascimento2024toward/](https://valfride.github.io/nascimento2024toward/)
+Instructions for 📥 **Downalod** are available in: [https://valfride.github.io/nascimento2024toward/](https://valfride.github.io/nascimento2024toward/).
 
 ## Citation
 If you use this dataset, please cite our paper:  
@@ -47,4 +47,14 @@ If you use this dataset, please cite our paper:
 }
 ```
 
-Additionally, consider showing your support by starring ( :star: ) this repository.
+Additionally, consider showing your support by **starring** :star: this repository.
+
+## Related Publications
+
+
+## Contact
+For questions or feedback, contact:
+
+**Valfride Wallace do Nascimento**
+
+[vwnascimento@inf.ufpr.br](mailto:email@example.com)
