@@ -1,6 +1,6 @@
 # UFPR-SR-Plates Dataset
 
-This dataset contains **100,000 license plate (LP) images** organized into **10,000 tracks**, captured under real-world surveillance conditions. Each track includes **five sequential low-resolution (LR)** images (captured when the vehicle was farthest from the camera) and **five sequential high-resolution (HR)** images (captured at the vehicle's closest point). The dataset is designed to advance research in license plate super-resolution (SR) and recognition (LPR) under challenging real-world conditions.
+This dataset contains **100,000 license plate (LP) images** organized into **10,000 tracks**, captured under real-world surveillance conditions. Each track includes **five sequential low-resolution (LR)** images (captured when the vehicle was farthest from the camera) and **five sequential high-resolution (HR)** images (captured at the vehicle's closest point). The dataset, introduced in our JBCS paper [[PDF]](https://raysonlaroca.github.io/papers/nascimento2025toward.pdf), is designed to advance research in license plate super-resolution (SR) and recognition (LPR) under challenging real-world conditions.
 
 ## Key Features
 - **Real-world diversity**: Images were captured under varying lighting, weather, and environmental conditions using a rolling shutter camera installed on a Brazilian road.
@@ -37,7 +37,7 @@ In general, you will receive a download link within 1-5 business days. If you do
 ## Citation
 If you use the UFPR-SR-Plates dataset in your research, please cite our paper:
 
-* V. Nascimento, G. E. Lima, R. O. Ribeiro, W. R. Schwartz, R. Laroca, D. Menotti, “Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark,” Journal of the Brazilian Computer Society, pp. 1-14, 2025.
+* V. Nascimento, G. E. Lima, R. O. Ribeiro, W. R. Schwartz, R. Laroca, D. Menotti, “Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark,” Journal of the Brazilian Computer Society, pp. 1-14, 2025. [[arXiv]](https://arxiv.org/abs/2505.06393)
 
 ```bibtex
 @article{nascimento2025toward,
