@@ -37,7 +37,7 @@ In general, you will receive a download link within 1-5 business days. If you do
 ## Citation
 If you use the UFPR-SR-Plates dataset in your research, please cite our paper:
 
-* V. Nascimento, G. E. Lima, R. O. Ribeiro, W. R. Schwartz, R. Laroca, D. Menotti, “Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark,” Journal of the Brazilian Computer Society, pp. 1-14, 2025. [[arXiv]](https://arxiv.org/abs/2505.06393)
+* V. Nascimento, G. E. Lima, R. O. Ribeiro, W. R. Schwartz, R. Laroca, D. Menotti, “Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark,” Journal of the Brazilian Computer Society, pp. 1-14, 2025. [[arXiv]](https://arxiv.org/abs/2505.06393) [[SBC-OpenLib (SOL)]](https://doi.org/10.5753/jbcs.2025.5159)
 
 ```bibtex
 @article{nascimento2025toward,
@@ -45,10 +45,10 @@ If you use the UFPR-SR-Plates dataset in your research, please cite our paper:
   author = {V. {Nascimento} and G. E. {Lima} and R. O. {Ribeiro} and W. R. {Schwartz} and R. {Laroca} and D. {Menotti}},
   year = {2025},
   journal = {Journal of the Brazilian Computer Society},
-  volume = {},
-  number = {},
-  pages = {1-14},
-  doi = {},
+  volume = {1},
+  number = {31},
+  pages = {435-449},
+  doi = {10.5753/jbcs.2025.5159},
   issn = {},
 }
 ```
