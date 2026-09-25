@@ -66,4 +66,4 @@ For questions or feedback, contact:
 
 **Valfride Wallace do Nascimento** [[Webpage](https://www.inf.ufpr.br/vwnascimento/)]
 
-[vwnascimento@inf.ufpr.br](mailto:email@example.com)
+[vwnascimento@inf.ufpr.br](mailto:vwnascimento@inf.ufpr.br)
